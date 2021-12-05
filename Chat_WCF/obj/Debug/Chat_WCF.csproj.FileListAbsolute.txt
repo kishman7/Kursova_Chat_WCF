@@ -1,0 +1,14 @@
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Chat_WCF\Chat_WCF\bin\Debug\Chat_WCF.dll.config
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Chat_WCF\Chat_WCF\bin\Debug\Chat_WCF.dll
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Chat_WCF\Chat_WCF\bin\Debug\Chat_WCF.pdb
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Chat_WCF\Chat_WCF\obj\Debug\Chat_WCF.csprojAssemblyReference.cache
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Chat_WCF\Chat_WCF\obj\Debug\Chat_WCF.csproj.CoreCompileInputs.cache
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Chat_WCF\Chat_WCF\obj\Debug\Chat_WCF.dll
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Chat_WCF\Chat_WCF\obj\Debug\Chat_WCF.pdb
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF\Chat_WCF\bin\Debug\Chat_WCF.dll.config
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF\Chat_WCF\bin\Debug\Chat_WCF.dll
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF\Chat_WCF\bin\Debug\Chat_WCF.pdb
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF\Chat_WCF\obj\Debug\Chat_WCF.csprojAssemblyReference.cache
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF\Chat_WCF\obj\Debug\Chat_WCF.csproj.CoreCompileInputs.cache
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF\Chat_WCF\obj\Debug\Chat_WCF.dll
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF\Chat_WCF\obj\Debug\Chat_WCF.pdb

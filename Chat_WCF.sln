@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chat_WCF", "Chat_WCF\Chat_WCF.csproj", "{9FC4BAB4-B8C4-4CD8-88AF-E258C528067B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatHost", "ChatHost\ChatHost.csproj", "{B113B100-5E89-4FA2-8405-2766F1C4D0B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatClient", "ChatClient\ChatClient.csproj", "{942C8FFD-A108-4DF3-982E-7565816BF1E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FC4BAB4-B8C4-4CD8-88AF-E258C528067B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC4BAB4-B8C4-4CD8-88AF-E258C528067B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC4BAB4-B8C4-4CD8-88AF-E258C528067B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC4BAB4-B8C4-4CD8-88AF-E258C528067B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B113B100-5E89-4FA2-8405-2766F1C4D0B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B113B100-5E89-4FA2-8405-2766F1C4D0B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B113B100-5E89-4FA2-8405-2766F1C4D0B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B113B100-5E89-4FA2-8405-2766F1C4D0B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{942C8FFD-A108-4DF3-982E-7565816BF1E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{942C8FFD-A108-4DF3-982E-7565816BF1E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{942C8FFD-A108-4DF3-982E-7565816BF1E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{942C8FFD-A108-4DF3-982E-7565816BF1E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6745A9B-6EEB-4068-9055-9774E55130AD}
+	EndGlobalSection
+EndGlobal
